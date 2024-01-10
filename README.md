@@ -1,7 +1,7 @@
-# Mill + Scala 3 console issue with MariaDB client dependency
+# Mill + Scala 3 console issue with JNA dependency
 
-This reproduces an issue with Mill and the Scala 3 console when depending on the
-[MariaDB client](https://github.com/mariadb-corporation/mariadb-connector-j).
+This reproduces an issue with Mill and the Scala 3 console when depending on
+[JNA](https://github.com/java-native-access/jna).
 
 To reproduce the issue:
 
